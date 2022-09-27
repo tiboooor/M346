@@ -10,4 +10,4 @@ Vom Kunden werden diese dann als Dienstleistung genutzt.
 
 <img src="https://www.cisco.com/c/dam/assets/swa/img/630/what-is-saas-628x353.png"/>
 
-[Mehr zu Platform as a Service](https://www.redhat.com/de/topics/cloud-computing/what-is-saas).
+[Mehr zu Software as a Service](https://www.redhat.com/de/topics/cloud-computing/what-is-saas).
